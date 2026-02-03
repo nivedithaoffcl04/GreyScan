@@ -1,5 +1,13 @@
 # GreyScan
-Elderly hiring platform - UI/UX using figma
-- High-fidelity UI/UX design created using Figma  
-- Wireframes, components, and interactive prototype  
-- 🔗 Figma Link:https://www.figma.com/proto/eukbLuRIIiC3AFFKOtGFfu
+##  UI/UX Design – Elderly Hiring Platform
+
+This project focuses on designing a user-friendly and accessible UI/UX for an **Elderly Hiring Platform**, enabling easy interaction between elderly service providers and users.
+
+### Project Highlights
+- User-centered design approach focused on accessibility and simplicity  
+- Wireframes, UI components, and high-fidelity screens  
+- Interactive prototype designed in Figma  
+- Consistent design system and layout structure  
+
+### Figma Project Link
+[https://www.figma.com/file/your-figma-project-link](https://www.figma.com/proto/eukbLuRIIiC3AFFKOtGFfu)
